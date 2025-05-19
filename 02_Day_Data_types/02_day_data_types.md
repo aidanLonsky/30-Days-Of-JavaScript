@@ -14,7 +14,7 @@
 </div>
 </div>
 
-[<< Day 1](../readMe.md) | [Day 3 >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
+[<< Day 1](30%20Days%20Of%20JavaScript.md) | [Day 3 >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
 
 ![Thirty Days Of JavaScript](../images/banners/day_1_2.png)
 
@@ -977,4 +977,4 @@ console.log(numInt) // 9
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 1](../readMe.md) | [Day 3 >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
+[<< Day 1](30%20Days%20Of%20JavaScript.md) | [Day 3 >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
