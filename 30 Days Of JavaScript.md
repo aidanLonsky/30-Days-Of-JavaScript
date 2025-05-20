@@ -19,7 +19,7 @@ relevantloc:
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 01    |                                                             [Introduction](30%20Days%20Of%20JavaScript.md)                                                             |
-| 02    |                                               [Data Types](./02_Day_Data_types/02_day_data_types.md)                                                |
+| 02    |                                               [Data Types](📔%20Day%202.md)                                                |
 | 03    |                             [Booleans, Operators, Date](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
 | 04    |                                            [Conditionals](./04_Day_Conditionals/04_day_conditionals.md)                                             |
 | 05    |                                                     [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                      |
@@ -90,7 +90,7 @@ relevantloc:
 </div>
 </div>
 
-[Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
+[Day 2 >>](📔%20Day%202.md)
 
 ![Thirty Days Of JavaScript](./images/day_1_1.png)
 
@@ -698,4 +698,4 @@ You are 30 years old.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
+[Day 2 >>](📔%20Day%202.md)
